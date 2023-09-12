@@ -1,0 +1,72 @@
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\HttpRequest\HttpRequest\HttpRequest\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\HttpRequest\HttpRequest\HttpRequest\bin\Debug\net6.0\appsettings.json
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\HttpRequest\HttpRequest\HttpRequest\bin\Debug\net6.0\HttpRequest.exe
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\HttpRequest\HttpRequest\HttpRequest\bin\Debug\net6.0\HttpRequest.deps.json
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\HttpRequest\HttpRequest\HttpRequest\bin\Debug\net6.0\HttpRequest.runtimeconfig.json
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\HttpRequest\HttpRequest\HttpRequest\bin\Debug\net6.0\HttpRequest.dll
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\HttpRequest\HttpRequest\HttpRequest\bin\Debug\net6.0\HttpRequest.pdb
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\HttpRequest\HttpRequest\HttpRequest\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\HttpRequest\HttpRequest\HttpRequest\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\HttpRequest\HttpRequest\HttpRequest\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\HttpRequest\HttpRequest\HttpRequest\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\HttpRequest\HttpRequest\HttpRequest\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\HttpRequest\HttpRequest\HttpRequest\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\HttpRequest\HttpRequest\HttpRequest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\HttpRequest\HttpRequest\HttpRequest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\HttpRequest\HttpRequest\HttpRequest\obj\Debug\net6.0\HttpRequest.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\HttpRequest\HttpRequest\HttpRequest\obj\Debug\net6.0\HttpRequest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\HttpRequest\HttpRequest\HttpRequest\obj\Debug\net6.0\HttpRequest.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\HttpRequest\HttpRequest\HttpRequest\obj\Debug\net6.0\HttpRequest.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\HttpRequest\HttpRequest\HttpRequest\obj\Debug\net6.0\HttpRequest.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\HttpRequest\HttpRequest\HttpRequest\obj\Debug\net6.0\HttpRequest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\HttpRequest\HttpRequest\HttpRequest\obj\Debug\net6.0\HttpRequest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\HttpRequest\HttpRequest\HttpRequest\obj\Debug\net6.0\staticwebassets\msbuild.HttpRequest.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\HttpRequest\HttpRequest\HttpRequest\obj\Debug\net6.0\staticwebassets\msbuild.build.HttpRequest.props
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\HttpRequest\HttpRequest\HttpRequest\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HttpRequest.props
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\HttpRequest\HttpRequest\HttpRequest\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HttpRequest.props
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\HttpRequest\HttpRequest\HttpRequest\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\HttpRequest\HttpRequest\HttpRequest\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\HttpRequest\HttpRequest\HttpRequest\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\HttpRequest\HttpRequest\HttpRequest\obj\Debug\net6.0\scopedcss\bundle\HttpRequest.styles.css
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\HttpRequest\HttpRequest\HttpRequest\obj\Debug\net6.0\HttpRequest.csproj.CopyComplete
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\HttpRequest\HttpRequest\HttpRequest\obj\Debug\net6.0\HttpRequest.dll
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\HttpRequest\HttpRequest\HttpRequest\obj\Debug\net6.0\refint\HttpRequest.dll
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\HttpRequest\HttpRequest\HttpRequest\obj\Debug\net6.0\HttpRequest.pdb
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\HttpRequest\HttpRequest\HttpRequest\obj\Debug\net6.0\HttpRequest.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\HttpRequest\HttpRequest\HttpRequest\obj\Debug\net6.0\ref\HttpRequest.dll
+F:\Sql Server Assited Projects\HttpRequest\HttpRequest\HttpRequest\bin\Debug\net6.0\appsettings.Development.json
+F:\Sql Server Assited Projects\HttpRequest\HttpRequest\HttpRequest\bin\Debug\net6.0\appsettings.json
+F:\Sql Server Assited Projects\HttpRequest\HttpRequest\HttpRequest\bin\Debug\net6.0\HttpRequest.exe
+F:\Sql Server Assited Projects\HttpRequest\HttpRequest\HttpRequest\bin\Debug\net6.0\HttpRequest.deps.json
+F:\Sql Server Assited Projects\HttpRequest\HttpRequest\HttpRequest\bin\Debug\net6.0\HttpRequest.runtimeconfig.json
+F:\Sql Server Assited Projects\HttpRequest\HttpRequest\HttpRequest\bin\Debug\net6.0\HttpRequest.dll
+F:\Sql Server Assited Projects\HttpRequest\HttpRequest\HttpRequest\bin\Debug\net6.0\HttpRequest.pdb
+F:\Sql Server Assited Projects\HttpRequest\HttpRequest\HttpRequest\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+F:\Sql Server Assited Projects\HttpRequest\HttpRequest\HttpRequest\bin\Debug\net6.0\System.Web.Http.dll
+F:\Sql Server Assited Projects\HttpRequest\HttpRequest\HttpRequest\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Sql Server Assited Projects\HttpRequest\HttpRequest\HttpRequest\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Sql Server Assited Projects\HttpRequest\HttpRequest\HttpRequest\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+F:\Sql Server Assited Projects\HttpRequest\HttpRequest\HttpRequest\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Sql Server Assited Projects\HttpRequest\HttpRequest\HttpRequest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Sql Server Assited Projects\HttpRequest\HttpRequest\HttpRequest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Sql Server Assited Projects\HttpRequest\HttpRequest\HttpRequest\obj\Debug\net6.0\HttpRequest.csproj.AssemblyReference.cache
+F:\Sql Server Assited Projects\HttpRequest\HttpRequest\HttpRequest\obj\Debug\net6.0\HttpRequest.GeneratedMSBuildEditorConfig.editorconfig
+F:\Sql Server Assited Projects\HttpRequest\HttpRequest\HttpRequest\obj\Debug\net6.0\HttpRequest.AssemblyInfoInputs.cache
+F:\Sql Server Assited Projects\HttpRequest\HttpRequest\HttpRequest\obj\Debug\net6.0\HttpRequest.AssemblyInfo.cs
+F:\Sql Server Assited Projects\HttpRequest\HttpRequest\HttpRequest\obj\Debug\net6.0\HttpRequest.csproj.CoreCompileInputs.cache
+F:\Sql Server Assited Projects\HttpRequest\HttpRequest\HttpRequest\obj\Debug\net6.0\HttpRequest.MvcApplicationPartsAssemblyInfo.cs
+F:\Sql Server Assited Projects\HttpRequest\HttpRequest\HttpRequest\obj\Debug\net6.0\HttpRequest.MvcApplicationPartsAssemblyInfo.cache
+F:\Sql Server Assited Projects\HttpRequest\HttpRequest\HttpRequest\obj\Debug\net6.0\staticwebassets\msbuild.HttpRequest.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Sql Server Assited Projects\HttpRequest\HttpRequest\HttpRequest\obj\Debug\net6.0\staticwebassets\msbuild.build.HttpRequest.props
+F:\Sql Server Assited Projects\HttpRequest\HttpRequest\HttpRequest\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HttpRequest.props
+F:\Sql Server Assited Projects\HttpRequest\HttpRequest\HttpRequest\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HttpRequest.props
+F:\Sql Server Assited Projects\HttpRequest\HttpRequest\HttpRequest\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Sql Server Assited Projects\HttpRequest\HttpRequest\HttpRequest\obj\Debug\net6.0\staticwebassets.build.json
+F:\Sql Server Assited Projects\HttpRequest\HttpRequest\HttpRequest\obj\Debug\net6.0\staticwebassets.development.json
+F:\Sql Server Assited Projects\HttpRequest\HttpRequest\HttpRequest\obj\Debug\net6.0\scopedcss\bundle\HttpRequest.styles.css
+F:\Sql Server Assited Projects\HttpRequest\HttpRequest\HttpRequest\obj\Debug\net6.0\HttpRequest.csproj.CopyComplete
+F:\Sql Server Assited Projects\HttpRequest\HttpRequest\HttpRequest\obj\Debug\net6.0\HttpRequest.dll
+F:\Sql Server Assited Projects\HttpRequest\HttpRequest\HttpRequest\obj\Debug\net6.0\refint\HttpRequest.dll
+F:\Sql Server Assited Projects\HttpRequest\HttpRequest\HttpRequest\obj\Debug\net6.0\HttpRequest.pdb
+F:\Sql Server Assited Projects\HttpRequest\HttpRequest\HttpRequest\obj\Debug\net6.0\HttpRequest.genruntimeconfig.cache
+F:\Sql Server Assited Projects\HttpRequest\HttpRequest\HttpRequest\obj\Debug\net6.0\ref\HttpRequest.dll
